@@ -394,7 +394,8 @@ POST http://localhost:8080/screen?provider=anthropic
 
 - Postman
   
-  <img width="821" height="743" alt="Screenshot 2026-07-06 at 6 59 50 PM" src="https://github.com/user-attachments/assets/a5e6ab10-e056-4377-a678-42b59b9151a4" />
+<img width="1536" height="1024" alt="resume-screener-api" src="https://github.com/user-attachments/assets/99ddb72c-3804-47cd-94f0-aa40eb3f2283" />
+
 
 ---
 
