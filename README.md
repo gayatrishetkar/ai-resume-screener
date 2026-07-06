@@ -17,7 +17,7 @@ The application extracts text from uploaded PDF resumes, sends it to the selecte
 
 # ✨ Features
 
-- Upload resume as PDF
+- Upload resume as PDF along with a text-based job description
 - Extract text using Apache PDFBox
 - Screen resumes using:
   - Google Gemini
